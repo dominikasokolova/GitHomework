@@ -2,3 +2,4 @@
 2. You should not lose sight of your goal or you will spend hours on unimportant things. 
 3. Keep the code simple and consistent so even after a long time you will easily understand it and so will others. 
 4. It is good to work in a clean environment where nothing disturbs you. Maybe play some music in the background. 
+5.If you stay in your comfort zone you will not learn new things, at least not so effectively. 
